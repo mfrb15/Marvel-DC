@@ -17,7 +17,7 @@ Este proyecto es una Single Page Application (SPA) desarrollada en Angular CLI q
 Asegúrate de tener instalados los siguientes requisitos antes de comenzar:
 
 - [Node.js](https://nodejs.org/) (versión recomendada)
-- [Angular CLI](https://angular.io/guide/setup-local) (para instalarlo, ejecutanpm install -g @angular/cli`)
+- [Angular CLI](https://angular.io/guide/setup-local) (para instalarlo, ejecuta  `npm install -g @angular/cli`)
 
 ## Instrucciones de instalación
 
