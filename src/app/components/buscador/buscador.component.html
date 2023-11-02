@@ -10,19 +10,6 @@
   </div>
 
 </div>
-<div class="container">
-  <div class="row">
-    <div class="col-md-4 animated fadeIn fast"  *ngFor=" let heroe of heroes let i = index" >
-      <div class="card">
-        <img [src]="heroe.img" class="card-img-top img-fluid" alt="...">
-        <div class="card-block">
-          <h5 class="card-title">{{ heroe.nombre }}</h5>
-          <p class="card-text">{{ heroe.bio }}</p>
-        </div>
-        <div class="card-footer text-center">
-          <small class="text-body-secondary">{{ heroe.aparicion }}</small>
-        </div>
-
-      </div>
-    </div>
-  </div>
+<div class="row">
+  <app-heroe-tarjeta [heroe]="heroe"  [index]="heroe.idx" *ngFor=" let heroe of heroes " class="col-md-4"> </app-heroe-tarjeta>
+</div>
