@@ -1,5 +1,7 @@
 # Marvel Superheroes SPA
 
+<img src="./src/assets/img/heroes.jpg">
+
 Este proyecto es una Single Page Application (SPA) desarrollada en Angular CLI que muestra información sobre los personajes de Marvel. Incluye una vista de inicio y una sección de héroes donde se muestran tarjetas con detalles de los superhéroes. Además, cuenta con un buscador que redirige a los componentes correspondientes.
 
 ## Contenido
