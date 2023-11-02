@@ -8,9 +8,7 @@ Este proyecto es una Single Page Application (SPA) desarrollada en Angular CLI q
 2. [Instrucciones de instalación](#instrucciones-de-instalación)
 3. [Uso](#uso)
 4. [Características](#características)
-5. [Estructura del proyecto](#estructura-del-proyecto)
-6. [Contribución](#contribución)
-7. [Licencia](#licencia)
+5. [Contribución](#contribución)
 
 ## Requisitos
 
@@ -23,7 +21,7 @@ Asegúrate de tener instalados los siguientes requisitos antes de comenzar:
 
 1. Clona este repositorio en tu máquina local:
 
-git clone https://github.com/tuusuario/marvel-superheroes-spa.git
+git clone https://github.com/mfrb15/Marvel-DC.git
 1. Navega al directorio del proyecto: 
 
 cd marvel-superheroes-spa
